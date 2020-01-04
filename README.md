@@ -6,7 +6,7 @@ This is an article that introduce how to use the Unity Package **High Performanc
 
 ### Steps:
 #### 1.Import damage text font files
-	
+![import_font_file](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/import_fonts.png)
 #### 2.Edit damage text animation prefab
 	
 #### 3.Set render camera and animation key
