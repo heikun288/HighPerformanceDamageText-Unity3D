@@ -30,9 +30,15 @@ Key:function param "key"
 add 100 players and each player displays damage text every 0.2 seconds.
 
 Show 100 damage text in a meantime
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100.png)[HighPerformanceDamageText]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100_ugui.png)[UGUI]
+
+[HighPerformanceDamageText]
+![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100.png)
+[UGUI]
+![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100_ugui.png)
 
 Update damage text animation
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation.png)[HighPerformanceDamageText]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation_ugui.png)[UGUI]
+
+[HighPerformanceDamageText]
+![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation.png)
+[UGUI]
+![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation_ugui.png)
