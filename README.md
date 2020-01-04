@@ -4,6 +4,9 @@ This is an article that introduce how to use the **Unity Package** [High Perform
 
 ## How To Use
 
+### video  tutorial
+[click here](https://www.youtube.com/watch?v=I2VnSVcpiPo&feature=youtu.be)
+
 ### Steps:
 #### 1.Import damage text font files
 ![import_font_file](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/import_fonts.png)
@@ -39,10 +42,6 @@ hit > ui picture > exp > attack
 
 ![sorting_order_with_ui_5](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_5.png)
 ui picture > hit > exp > attack
-
-
-### video  tutorial
-[click here](https://www.youtube.com/watch?v=I2VnSVcpiPo&feature=youtu.be)
 
 
 ## Performance Test
