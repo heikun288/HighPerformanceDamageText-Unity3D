@@ -1,6 +1,6 @@
 # Welcome to HighPerformanceDamageText!
 
-This is an article that introduce how to use the Unity Package **High Performance Damage Text** and compare performance with UGUI.
+This is an article that introduce how to use the **Unity Package** [High Performance Damage Text](http://u3d.as/1HLg) and compare performance with UGUI.
 
 ## How To Use
 
@@ -42,7 +42,7 @@ ui picture > hit > exp > attack
 
 
 ### video  tutorial
-[click here]()
+[click here](https://www.youtube.com/watch?v=I2VnSVcpiPo&feature=youtu.be)
 
 
 ## Performance Test
