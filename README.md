@@ -19,16 +19,24 @@ This is an article that introduce how to use the Unity Package **High Performanc
 #### order in damage texts
 ![sorting_order_1](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_1.png)
 exp > attack > hit
+
+
 ![sorting_order_2](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_2.png)
 hit > exp > attack
 #### order in ui
 ![sorting_order_with_ui_1](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_1.png)
 ![sorting_order_with_ui_2](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_2.png)
 hit > exp > attack > ui picture
+
+
 ![sorting_order_with_ui_3](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_3.png)
 hit > exp > ui picture > attack
+
+
 ![sorting_order_with_ui_4](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_4.png)
 hit > ui picture > exp > attack
+
+
 ![sorting_order_with_ui_5](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/sorting_order_with_ui_5.png)
 ui picture > hit > exp > attack
 
