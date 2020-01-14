@@ -50,13 +50,17 @@ add 100 players and each player displays damage text every 0.2 seconds.
 Show 100 damage text in a meantime
 
 [HighPerformanceDamageText]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100.png)
+![show_damage_100](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100.png)
 [UGUI]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100_ugui.png)
+![show_damage_100_ugui](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/show_damage_100_ugui.png)
 
 Update damage text animation
 
 [HighPerformanceDamageText]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation.png)
+![update_animation](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation.png)
 [UGUI]
-![call_function](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation_ugui.png)
+![update_animation_ugui](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/update_animation_ugui.png)
+
+## Update
+### Support screen space
+![screen_space](https://github.com/heikun288/HighPerformanceDamageText-Unity3D/blob/master/pic/screen_space.png)
