@@ -5,7 +5,7 @@ This is an article that introduce how to use the **Unity Package** [High Perform
 ## How To Use
 
 ### video  tutorial
-[click here](https://www.youtube.com/watch?v=I2VnSVcpiPo&feature=youtu.be)
+[click here](https://www.youtube.com/watch?v=hnAEA4Mq6I0)
 
 ### Steps:
 #### 1.Import damage text font files
